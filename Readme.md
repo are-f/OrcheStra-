@@ -1,4 +1,4 @@
-# Multi-Agent AI System
+# OrcheStra
 
 ## Overview
 
